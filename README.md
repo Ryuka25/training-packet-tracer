@@ -24,7 +24,7 @@
                 ||     ||
 ```
 
-Suite à l'examen du première session de notre module "Introduction aux système et réseaux informatique"; j'ai réaliser ci-joint une petite laboratoire qui permet de réviser tout les notions essentiels et utile pour réviser l'examen
+Suite à l'examen du première session de notre module "Introduction aux système et réseaux informatique"; j'ai réaliser ci-joint une petite laboratoire qui permet de réviser tout les notions essentiels et utile à l'examen
 
 ## Contenu
 
